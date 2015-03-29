@@ -2,12 +2,11 @@
 title: Leandro Ostera 
 email: leandro@ostera.io
 description: > # this means to ignore newlines until "baseurl:"
-  Self-taught software architect and developer.
-  Former Director of Engineer @ Lateral.ly
-  Former Web Engineer @ Clevertech.biz`
+  Self-taught programmer.<br>
+  Former Director of Engineer @ Lateral.ly<br>
+  Former Web Engineer @ Clevertech.biz
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ostera.io" # the base hostname & protocol for your site
-twitter_username: leostera
 github_username:  ostera
 
 # Build settings
