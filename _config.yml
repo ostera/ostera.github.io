@@ -1,10 +1,12 @@
 # Site settings
 title: Leandro Ostera 
-email: leandro@ostera.me
+email: leandro@ostera.io
 description: > # this means to ignore newlines until "baseurl:"
-  Woot.
+  Self-taught software architect and developer.
+  Former Director of Engineer @ Lateral.ly
+  Former Web Engineer @ Clevertech.biz`
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://ostera.me" # the base hostname & protocol for your site
+url: "http://ostera.io" # the base hostname & protocol for your site
 twitter_username: leostera
 github_username:  ostera
 
