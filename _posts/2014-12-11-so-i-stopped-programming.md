@@ -2,7 +2,7 @@
 layout: post
 title:  "So I Stopped Programming"
 date:   2014-12-11 23:09:02
-categories: personal 
+categories: craft quality
 ---
 
 > *Disclaimer: these are some ramblings about what I learned from endeavoring
