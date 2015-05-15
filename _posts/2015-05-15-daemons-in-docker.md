@@ -55,7 +55,7 @@ a daemon too, exposing the haproxy daemon's port to the host machine.
 
 Our Dropbox Service is composed of multiple processes running in parallel:
 
-* A process that listening to an event through a PubSub mechanism from the API
+* A process that listens to an event through a PubSub mechanism prioritizing files.
 
 * A process that consumes a queue of files to upload, ordered by priority.
 
