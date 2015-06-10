@@ -2,6 +2,8 @@ State is a property of a processs.
 
 Don't deal with corrupted data.
 
+Log the reason of the process exit that's being trapped.
+
 Always trap exits and have very consistent way of raising and catching exceptions.
 
 Never trust your systems, nor yourself.
@@ -83,30 +85,14 @@ erlang tracer can take you SNAFU.
 
 epmd: always close ports from epmd (4369) and net_kernel (54321).
 
+Questions:
+- How do you usually keep a vm/release alive? upstart/runit/sysinit?
+  You can use the erlang vm feature called heart that can spawn a watchdog in the
+  operating systme that keeps an eey ein the erlang vm process to restart it.
 
+- Do atoms evaluate at all and if so do they evaluate to themselves?
+  They do, to themselves.
 
+Supervisor Specification: Nested compound data type.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Don't use Erlang for making GUI applications.
