@@ -96,3 +96,11 @@ Questions:
 Supervisor Specification: Nested compound data type.
 
 Don't use Erlang for making GUI applications.
+
+gen_event could be used to have declarative control flow.
+
+Shopping cart example:
+  Each cart is a process (supervisor) that will spawn it's own gen_event handler
+  to declare flow in a set of modules.
+
+Swapping handlers does two things at once. Replaces a module with another.
