@@ -15,9 +15,9 @@ Don't handle errors.
 Always use a common programming style.
 
 Golden Rules:
-1. Your function should be bigger than 5 lines of code.
+1. Your function should NOT be bigger than 5 lines of code.
 2. Lighweight processes.
-3. 
+3. ?
 
 Event Handlers register for a Stream <-
   each behavior has a set of callback functions
