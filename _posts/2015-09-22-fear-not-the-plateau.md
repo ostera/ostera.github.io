@@ -45,4 +45,9 @@ I became the enemy.
 
 But why? Why would I do such a thing? Because I want to get outside the cave.
 
+Case in point, my cave now is merely intellectual. It's about going that extra mile
+on my field to become a more mature software engineer.
 
+My environment would eventually, if ever, allow me to experience enormous distributed software systems.
+
+Stop rambling. Think.
