@@ -13,14 +13,14 @@ the kind that looks at you in the eyes, inquisitively, yelling if you dare to
 be brave.
 
 If I have to be completely honest, I think you can never really get out of
-Plato’s cave. Just as when you get out of the cave, you find yourself inside another one.
+Plato’s cave. Just as when you get out of the cave, you find yourself trapped within the next one.
 
 Think caves inside of caves.
 
 A bigger one, where there's more light, with perhaps more room, filled with new,
 different ghosts and phallacies and realities and dreams.
 
-> In reality, if the whole mass of the universe is made of quarks, what is the difference between solid rock and the skies? I’d say none but it'd kill the poetry in Plato’s allegory.
+> In reality, if the whole mass of the universe is composed by quarks, what is the difference between solid rock and the skies other than it's internal organization? It really threatens the poetry in Plato's allegory.
 
 Hence my blindness – A small town kid with a passion for building things got
 out of his cave. A cave of routine and dogma, where you graduate from high school
@@ -32,22 +32,10 @@ And what I found was a overwhelming.
 An immense world of entrepreneurship, freelancing, networking, cheap flights,
 thai food, hostels, pub crawling and conferences, awkward situations and unbelivebably smart people, incredibly diverse mindsets and cultures and ideas.
 
-Built out of hopes and dreams and pains and loves.
-
-And I was happy.
+Built out of hopes and dreams and pains and loves. And I was happy.
 
 But it was of course, just a bigger cave.
 
-And yet 5 years later, I find myself moving across the world one more time,
-this time to immerse myself in the very routine I pledged to fight. A 9 to 5 on-premises gig at an international company.
-
-I became the enemy.
-
-But why? Why would I do such a thing? Because I want to get outside the cave.
-
-Case in point, my cave now is merely intellectual. It's about going that extra mile
-on my field to become a more mature software engineer.
-
-My environment would eventually, if ever, allow me to experience enormous distributed software systems.
-
-Stop rambling. Think.
+Over the years I've met lots of people who were quite comfortable where they were,
+complacent. Perhaps just as many times I've encountered people that once brought to know
+that there was an outside, realized where they were.
