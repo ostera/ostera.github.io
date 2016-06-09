@@ -4,8 +4,8 @@ subtitle: Pusher of bits, emitter of sounds. My opinions are my own.
 email: leandro@ostera.io
 description: | # this means to ignore newlines until "baseurl:"
   Software Developer, Klarna (https://klarna.com)
-  Former Director of Engineer, Laterally (https://laterally.com)
-  Former Web Engineer, CleverTech (https://clevertech.biz)
+  Former Director of Engineer, Laterally<br>
+  Former Web Engineer, <a href=\"https://clevertech.biz\">CleverTech</a>
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ostera.io" # the base hostname & protocol for your site
