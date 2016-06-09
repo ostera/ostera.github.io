@@ -3,8 +3,8 @@ title: Leandro Ostera
 subtitle: Pusher of bits, emitter of sounds. My opinions are my own.
 email: leandro@ostera.io
 description: | # this means to ignore newlines until "baseurl:"
-  Software Developer, Klarna
-  Former Director of Engineer, Laterally
+  Software Developer, Klarna <br>
+  Former Director of Engineer, Laterally <br>
   Former Web Engineer, CleverTech
 
 baseurl: "" # the subpath of your site, e.g. /blog/
