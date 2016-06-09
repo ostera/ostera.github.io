@@ -1,11 +1,10 @@
 # Site settings
-title: Leandro Ostera 
+title: Leandro Ostera
 subtitle: Pusher of bits, emitter of sounds. My opinions are my own.
 email: leandro@ostera.io
 description: > # this means to ignore newlines until "baseurl:"
-  Software Developer at Klarna AB<br>
-  CTO at MacroLab<br> 
-  Former Director of Engineer @ Lateral.ly<br>
+  Software Developer @ Klarna.com<br>
+  Former Director of Engineer @ Laterally.com<br>
   Former Web Engineer @ Clevertech.biz
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ostera.io" # the base hostname & protocol for your site
