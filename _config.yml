@@ -1,14 +1,14 @@
 # Site settings
 title: Leandro Ostera
-subtitle: Gestaltingenieur. My opinions are my own.
+subtitle: a λ-man in a von Neumann world
 email: leandro@ostera.io
 description: | # this means to ignore newlines until "baseurl:"
   Software Developer, Spotify <br>
   Former Software Developer, Klarna <br>
-  Former Web Engineer, CleverTech
+  Former Software Developer, CleverTech
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ostera.io" # the base hostname & protocol for your site
+url: "https://ostera.io" # the base hostname & protocol for your site
 github_username:  ostera
 
 # Build settings
