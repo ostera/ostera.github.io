@@ -5,7 +5,7 @@ email: leandro@ostera.io
 description: | # this means to ignore newlines until "baseurl:"
   Software Developer, Spotify <br>
   Former Software Developer, Klarna <br>
-  Former Software Developer, CleverTech
+  Former Software Developer, Laterally
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ostera.io" # the base hostname & protocol for your site
